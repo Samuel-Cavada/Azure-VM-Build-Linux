@@ -42,7 +42,7 @@ This project focuses on building a secure and functional Azure Virtual Machine (
 - Azure Portal – VM deployment and management
 - Azure Key Vault – Encryption key storage
 - Azure Network Security Groups – Traffic filtering and access control
-- Remote Desktop Protocol (RDP) – Remote connection setup
+- Remote Desktop Protocol (SSH) – Remote connection setup
 
 
 # Skills Gained
@@ -50,7 +50,7 @@ This project focuses on building a secure and functional Azure Virtual Machine (
 - Deploying and configuring Azure Virtual Machines
 - Implementing data encryption with platform-managed keys
 - Setting up network security groups and firewall rules
-- Establishing secure remote access using RDP
+- Establishing secure remote access using SSH
 - Building cloud environments for cybersecurity practice
 
 ## Environment Setup
@@ -101,7 +101,7 @@ Built an isolated resource group with a virtual network and securely configured 
 - **[I]** Select standard-ds1-v2 vCPU, 3.5 GiB memory ($41.61/month). - Cheaper option.
 - **[J]** Select authentication type as “Password”.
 - **[K]** Create a username and password. Make sure that it is at least 15 characters or longer with special characters, lowercase, and uppercase to ensure it is secure.
-- **[L]** If you want to be able to remote into via RDP, then turn this on. I will, as I will use this virtual machine to conduct vulnerability management and threat hunting and other cybersecurity projects.
+- **[L]** If you want to be able to remote into via SSH, then turn this on. I will, as I will use this virtual machine to conduct vulnerability management and threat hunting and other cybersecurity projects.
 - _Go to the next tab: Disks_
 
 ![Image 3](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/3.jpg)
@@ -206,7 +206,7 @@ Built an isolated resource group with a virtual network and securely configured 
 - Strengthened skills in applying encryption using platform-managed keys to secure data at rest.
 - Learned to configure Network Security Groups (NSGs) and firewall rules to tightly control traffic flow.
 - Built a secure cloud environment capable of supporting cybersecurity tasks like vulnerability management and threat hunting.
-- Understood the importance of balancing remote access setup (RDP) with strict security controls to minimize exposure risks.
+- Understood the importance of balancing remote access setup (SSH) with strict security controls to minimize exposure risks.
 - Gained practical insight into how cloud infrastructure must be methodically planned, secured, and monitored for enterprise use.
 
 
