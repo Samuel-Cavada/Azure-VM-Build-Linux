@@ -99,8 +99,9 @@ Built an isolated resource group with a virtual network and securely configured 
 - **[G]** Trusted launch virtual machine: This offers secure boot, vTPM, and boot integrity to ensure a secure boot-up.
 - **[H]** Select the OS you want.
 - **[I]** Select standard-ds1-v2 vCPU, 3.5 GiB memory ($41.61/month). - Cheaper option.
-- **[J]** Create a username and password. Make sure that it is at least 15 characters or longer with special characters, lowercase, and uppercase to ensure it is secure.
-- **[K]** If you want to be able to remote into via RDP, then turn this on. I will, as I will use this virtual machine to conduct vulnerability management and threat hunting and other cybersecurity projects.
+- **[J]** Select authentication type as “Password”.
+- **[K]** Create a username and password. Make sure that it is at least 15 characters or longer with special characters, lowercase, and uppercase to ensure it is secure.
+- **[L]** If you want to be able to remote into via RDP, then turn this on. I will, as I will use this virtual machine to conduct vulnerability management and threat hunting and other cybersecurity projects.
 - _Go to the next tab: Disks_
 
 ![Image 3](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/3.jpg)
@@ -134,7 +135,9 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - **[Q]** Select this option only if you are okay with having a public IP address. This will increase the chance of exposure and also be a target for malicious attacks from the network.
 
-- **[R]**
+- **[R]** Ensure your inbound ports is set to SSH.
+
+- **[S]** Ensure to check “Delete public IP and NIC when VM is deleted”.
 
 - _Go to the next tab: Management_
   
@@ -158,9 +161,9 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _In the Monitoring tab, configure the monitoring settings for your Azure Virtual Machine._
 
-- **[S]** Disable boot diagnostics as it will increase boot-up time.
+- **[T]** Disable boot diagnostics as it will increase boot-up time.
   
-- **[T]** Review and create the VM.
+- **[U]** Review and create the VM.
 
 - _Go to the next page: Review + Create_
 
