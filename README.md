@@ -27,9 +27,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/OS-Ubuntu%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-Ubuntu%20Server-E95420?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Tool-Network%20Security%20Groups-00ADEF?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Protocol-SSH-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Protocol-SSH-D3D3D3?style=for-the-badge&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/Focus-Secure%20VM%20Deployment-orange?style=for-the-badge">
 </p>
 
