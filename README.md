@@ -42,7 +42,7 @@ This project focuses on building a secure and functional Azure Virtual Machine (
 - Azure Portal – VM deployment and management
 - Azure Key Vault – Encryption key storage
 - Azure Network Security Groups – Traffic filtering and access control
-- Remote Desktop Protocol (SSH) – Remote connection setup
+- Secure Shell (SSH) – Remote connection setup
 
 
 # Skills Gained
