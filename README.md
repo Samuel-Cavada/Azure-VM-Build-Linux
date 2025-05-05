@@ -22,7 +22,7 @@
 </p>
 
 
-<h1 align="center">Azure Virtual Machine Deployment (Ubuntu Server Image)</h1>
+<h1 align="center">Azure Virtual Machine Deployment (Ubuntu Server)</h1>
 
 
 <p align="center">
