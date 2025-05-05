@@ -4,21 +4,12 @@
   </a>
 </p>
 
-<!--
 <p align="center">
-<img src="https://github.com/user-attachments/assets/02a13cdb-bf9e-40cc-aad8-d95ab6c78f1a" alt="PatchPal" width="100">
-<img src="https://github.com/user-attachments/assets/9aebcafb-751d-47bb-8084-45fbce3a54c9" alt="ShadowFox" width="100">
-<img src="https://github.com/user-attachments/assets/44ca8e7f-5fbd-4066-9881-39567c42d54f" alt="Sentinel Rex" width="100">
-<img src="https://github.com/user-attachments/assets/5a19025c-9f54-4598-b44c-4a9301e13e07" alt="ByteKnight" width="100">
-<img src="https://github.com/user-attachments/assets/1f20a2f3-ed45-43d6-b926-87c7f38d84a7" alt="AuditOwl" width="100">
-<img src="https://github.com/user-attachments/assets/ac4a2131-24b7-4c0b-b6da-c2987a099954" alt="Kernel Koala" width="100">
-<img src="https://github.com/user-attachments/assets/4991777b-28d3-4955-90fe-a9251c11d4e3" alt="Plugster" width="100">
-<img src="https://github.com/user-attachments/assets/bad305e4-10a8-40c8-bd90-617bd715f2dd" alt="Nimbus Nova" width="100">
-</p>
--->
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bad305e4-10a8-40c8-bd90-617bd715f2dd" alt="Nimbus Nova" width="100"> <br>
+<img src="https://github.com/user-attachments/assets/baa505c7-d846-47da-b1f8-c51ea4b56318" width="100"/>
+<img src="https://github.com/user-attachments/assets/bfad470b-392d-41a6-8c31-6189db3390ce" alt="UNDER CONSTRUCTION" width="200"/>
+<img src="https://github.com/user-attachments/assets/9d8277b1-e9cc-4e51-893a-cc50cd056431" width="180"/>
+<img src="https://github.com/user-attachments/assets/72b79db5-19a3-48d7-95a5-be317408fafd" width="200"/>
+<img src="https://github.com/user-attachments/assets/5a46688e-b0e3-404b-abe0-aa8182be5bac" width="120"/>
 </p>
 
 
