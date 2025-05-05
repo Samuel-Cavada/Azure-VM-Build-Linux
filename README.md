@@ -212,7 +212,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 <p align="center">
   <a href="https://github.com/Samuel-Cavada/Linux-Vulnerability-Scanning-Authenticated-vs.-Unauthenticated">
-   <img src="https://img.shields.io/badge/🔙 Return_to-Windows_Vulnerability_Scanning-0A0A0A?style=for-the-badge&logo=github" alt="Return to Linux Vulnerability Scanning">
+   <img src="https://img.shields.io/badge/🔙 Return_to-Linux_Vulnerability_Scanning-0A0A0A?style=for-the-badge&logo=github" alt="Return to Linux Vulnerability Scanning">
   </a>
 </p>
 
