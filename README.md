@@ -189,8 +189,9 @@ Built an isolated resource group with a virtual network and securely configured 
 ### Step 10: Azure Resource Group Homepage
 
 > _Return to the Azure Resource Group homepage.._
->
+
 ![Step 9](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%209.jpg)
+
 
 ## Outcomes and Lessons Learned
 - Gained hands-on experience deploying and configuring Azure Virtual Machines from the ground up.
