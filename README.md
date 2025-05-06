@@ -145,7 +145,6 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next tab: Monitoring_
   
-![Step 6](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%206.jpg)
 
 
 > 
@@ -158,6 +157,8 @@ Built an isolated resource group with a virtual network and securely configured 
 - **[V]** Review and create the VM.
 
 - _Go to the next page: Review + Create_
+
+![Step 7](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%206.jpg)
 
 ![Step 7](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%207.jpg)
 
@@ -172,7 +173,8 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next page: Create_
 
-![Step 8](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%208.jpg)
+![Step 8](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%207.jpg)
+
 
 
 > 
@@ -182,6 +184,8 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next page: Go To Resource_
 
+![Step 9](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%208.jpg)
+
 ![Step 10](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%2010.jpg)
 
 
@@ -189,6 +193,7 @@ Built an isolated resource group with a virtual network and securely configured 
 ### Step 10: Azure Resource Group Homepage
 
 > _Return to the Azure Resource Group homepage.._
+
 
 ![Step 9](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%209.jpg)
 
