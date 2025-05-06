@@ -92,7 +92,7 @@ Built an isolated resource group with a virtual network and securely configured 
 - **[G]** Trusted launch virtual machine: This offers secure boot, vTPM, and boot integrity to ensure a secure boot-up.
 - **[H]** Select the OS you want.
 - **[I]** Select standard-ds1-v2 vCPU, 3.5 GiB memory ($41.61/month). - Cheaper option.
-- **[J]** Select authentication type as “Password”.
+- **[J]** Select authentication type as **`Password`**.
 - **[K]** Create a username and password. Make sure that it is at least 15 characters or longer with special characters, lowercase, and uppercase to ensure it is secure.
 - **[L]** If you want to be able to remote into via SSH, then turn this on. I will, as I will use this virtual machine to conduct vulnerability management and threat hunting and other cybersecurity projects.
 - _Go to the next tab: Disks_
