@@ -67,7 +67,8 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _Once in your resource group, you can click on the 'Create Resource' button to open the resource marketplace._
 > 
-![Image 1](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/1.jpg)
+![Step 1](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%201.jpg)
+
 
 
 
@@ -76,7 +77,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _Access the Azure Marketplace to select and configure your VM image._
 
-![Image 2](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/2.jpg)
+![Step 2](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%202.jpg)
 > 
 ### Step 3: Basics Tab
 
@@ -95,7 +96,7 @@ Built an isolated resource group with a virtual network and securely configured 
 - **[L]** If you want to be able to remote into via SSH, then turn this on. I will, as I will use this virtual machine to conduct vulnerability management and threat hunting and other cybersecurity projects.
 - _Go to the next tab: Disks_
 
-![Image 3](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/3.jpg)
+![Step 3](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%203.jpg)
 
 
 > 
@@ -103,15 +104,15 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _In the Disk tab, configure the storage options for your Azure Virtual Machine._
 
-- **[L]** Select the desired OS disk size.
+- **[M]** Select the desired OS disk size.
 
-- **[M]** Select the desired disk type.
+- **[N]** Select the desired disk type.
 
-- **[N]** Enabling platform-managed keys for the OS disk ensures automatic encryption (at rest)
+- **[O]** Enabling platform-managed keys for the OS disk ensures automatic encryption (at rest)
 
 - _Go to the next tab: Network_
 
-![Image 4](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/4.jpg)
+![Step 4](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%204.jpg)
 
 
 > 
@@ -119,20 +120,20 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _In the Networking tab, configure the network settings for your Azure Virtual Machine._
 
-- **[O]** Select the appropriate virtual network. 
+- **[P]** Select the appropriate virtual network. 
 
-- **[P]** Select the appropriate subnet.
+- **[Q]** Select the appropriate subnet.
 
 
-- **[Q]** Select this option only if you are okay with having a public IP address. This will increase the chance of exposure and also be a target for malicious attacks from the network.
+- **[R]** Select this option only if you are okay with having a public IP address. This will increase the chance of exposure and also be a target for malicious attacks from the network.
 
-- **[R]** Ensure your inbound ports is set to SSH.
+- **[S]** Ensure your inbound ports is set to SSH.
 
-- **[S]** Ensure to check “Delete public IP and NIC when VM is deleted”.
+- **[T]** Ensure to check “Delete public IP and NIC when VM is deleted”.
 
 - _Go to the next tab: Management_
   
-![Image 5](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/5.jpg)
+![Step 5](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%205.jpg)
 
 
 > 
@@ -144,7 +145,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next tab: Monitoring_
   
-![Image 6](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/6.jpg)
+![Step 6](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%206.jpg)
 
 
 > 
@@ -152,13 +153,13 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _In the Monitoring tab, configure the monitoring settings for your Azure Virtual Machine._
 
-- **[T]** Disable boot diagnostics as it will increase boot-up time.
+- **[U]** Disable boot diagnostics as it will increase boot-up time.
   
-- **[U]** Review and create the VM.
+- **[V]** Review and create the VM.
 
 - _Go to the next page: Review + Create_
 
-![Image 7](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/7.jpg)
+![Step 7](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%207.jpg)
 
 
 
@@ -171,7 +172,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next page: Create_
 
-![Image 8](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/8.jpg)
+![Step 8](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%208.jpg)
 
 
 > 
@@ -181,7 +182,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next page: Go To Resource_
 
-![Image 9](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/9.jpg)
+![Step 10](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%2010.jpg)
 
 
 > 
@@ -189,8 +190,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 > _Return to the Azure Resource Group homepage.._
 >
-![Image 10](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build/main/images/10.jpg)
-
+![Step 9](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%209.jpg)
 
 ## Outcomes and Lessons Learned
 - Gained hands-on experience deploying and configuring Azure Virtual Machines from the ground up.
