@@ -26,7 +26,7 @@
 
 
 # Project Objective
-This project focuses on building a secure and functional Azure Virtual Machine (VM) environment from the ground up. The goal was to configure key settings, strengthen encryption, and tighten network security — all essential for enabling secure remote access and supporting cybersecurity operations like vulnerability management and threat hunting.
+This project focuses on building a secure and functional Linux-based Azure Virtual Machine (VM) environment from the ground up. The goal was to configure key settings, strengthen encryption, and tighten network security — all essential for enabling secure remote access and supporting cybersecurity operations like vulnerability management and threat hunting.
 
 
 # Tools 
@@ -38,7 +38,7 @@ This project focuses on building a secure and functional Azure Virtual Machine (
 
 # Skills Gained
 
-- Deploying and configuring Azure Virtual Machines
+- Deploying and configuring Linux Azure Virtual Machines
 - Implementing data encryption with platform-managed keys
 - Setting up network security groups and firewall rules
 - Establishing secure remote access using SSH
@@ -69,8 +69,7 @@ Built an isolated resource group with a virtual network and securely configured 
 > 
 ![Step 1](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%201.jpg)
 
-
-
+---
 
 > 
 ### Step 2: Azure Marketplace
@@ -78,7 +77,9 @@ Built an isolated resource group with a virtual network and securely configured 
 > _Access the Azure Marketplace to select and configure your VM image._
 
 ![Step 2](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%202.jpg)
-> 
+
+---
+
 ### Step 3: Basics Tab
 
 > _In the Basics tab, configure essential settings for your Azure Virtual Machine, such as the subscription, resource group, and VM name._
@@ -98,8 +99,9 @@ Built an isolated resource group with a virtual network and securely configured 
 
 ![Step 3](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%203.jpg)
 
+---
 
-> 
+ 
 ### Step 4: Disk Tab
 
 > _In the Disk tab, configure the storage options for your Azure Virtual Machine._
@@ -115,7 +117,8 @@ Built an isolated resource group with a virtual network and securely configured 
 ![Step 4](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%204.jpg)
 
 
-> 
+---
+
 ### Step 5: Network tab
 
 > _In the Networking tab, configure the network settings for your Azure Virtual Machine._
@@ -136,7 +139,9 @@ Built an isolated resource group with a virtual network and securely configured 
 ![Step 5](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%205.jpg)
 
 
-> 
+---
+
+
 ### Step 6: Management tab
 
 > _In the Management tab, configure the management settings for your Azure Virtual Machine._
@@ -147,7 +152,9 @@ Built an isolated resource group with a virtual network and securely configured 
   
 
 
-> 
+---
+
+ 
 ### Step 7: Monitoring tab
 
 > _In the Monitoring tab, configure the monitoring settings for your Azure Virtual Machine._
@@ -161,7 +168,9 @@ Built an isolated resource group with a virtual network and securely configured 
 ![Step 8](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%206.jpg)
 
 
-> 
+---
+
+
 ### Step 8: Azure Virtual Machine Review Page
 
 > _Review all the settings and create the VM._
@@ -174,7 +183,9 @@ Built an isolated resource group with a virtual network and securely configured 
 
 
 
-> 
+---
+
+ 
 ### Step 9: Azure Virtual Machine Deployment Confirmation Page
 
 > _Confirm the deployment of your Azure Virtual Machine._
@@ -185,7 +196,9 @@ Built an isolated resource group with a virtual network and securely configured 
 ![Step 9](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%209.jpg)
 
 
-> 
+---
+
+ 
 ### Step 10: Azure Resource Group Homepage
 
 > _Return to the Azure Resource Group homepage.._
@@ -194,8 +207,10 @@ Built an isolated resource group with a virtual network and securely configured 
 ![Step 10](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%208.jpg)
 
 
+
+
 ## Outcomes and Lessons Learned
-- Gained hands-on experience deploying and configuring Azure Virtual Machines from the ground up.
+- Gained hands-on experience deploying and configuring Linux-based Azure Virtual Machines from the ground up.
 - Strengthened skills in applying encryption using platform-managed keys to secure data at rest.
 - Learned to configure Network Security Groups (NSGs) and firewall rules to tightly control traffic flow.
 - Built a secure cloud environment capable of supporting cybersecurity tasks like vulnerability management and threat hunting.
