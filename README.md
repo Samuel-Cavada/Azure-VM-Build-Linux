@@ -150,7 +150,7 @@ Built an isolated resource group with a virtual network and securely configured 
 
 - _Go to the next tab: Monitoring_
   
-
+![Step 6](https://raw.githubusercontent.com/Samuel-Cavada/Azure-VM-Build-Linux/main/assets/images/Azure-VM-Build-Linux%20Image%2010.jpg)
 
 ---
 
